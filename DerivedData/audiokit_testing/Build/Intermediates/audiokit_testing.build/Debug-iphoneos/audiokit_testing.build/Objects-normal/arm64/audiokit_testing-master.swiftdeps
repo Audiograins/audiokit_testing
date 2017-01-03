@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "2000deecd9c55c3b6f607167d4bbe1c3"
+build_time: [534465032, 50792000]
+inputs:
+  "/Users/mzgall/Desktop/AudioKit_Projects/audiokit_testing/audiokit_testing/audiokit_testing/ViewController.swift": [534465031, 0]
+  "/Users/mzgall/Desktop/AudioKit_Projects/audiokit_testing/audiokit_testing/audiokit_testing/AppDelegate.swift": [533767171, 0]
